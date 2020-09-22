@@ -1,4 +1,10 @@
-### Hi there 👋
+### Balancehero
+* Finance for All (सभी के लिए वित्त, 모두를 위한 금융)
+
+A Financial Platform solving the last mile issues of 1 Billion Indians<br>
+10억 인도인의 라스트 마일 문제를 해결하는 파이낸셜 플랫폼을 구축하는 사업을 하고 있습니다.
+
+PRIVATE REPOSITORY ONLY
 
 <!--
 **balancehero/balancehero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
